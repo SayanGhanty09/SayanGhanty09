@@ -80,13 +80,7 @@ Electronics & Communication Engineering Undergraduate • Full Stack Developer �
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SayanGhanty09&theme=algolia&no-frame=true&margin-w=10"/>
-</p>
-
----
 
 # 📈 Contribution Graph
 
